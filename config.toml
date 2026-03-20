@@ -1,0 +1,46 @@
+[site]
+description = 'A blog about software development.'
+logo = ''
+name = 'Niladic Podcast'
+url = 'https://www.niladicpodcast.com/'
+
+# Where to look for files
+[folders]
+build = 'build'
+pages = 'pages'
+posts = 'posts'
+static = 'static'
+templates = 'templates'
+
+[html]
+# How to format HTML
+# Only set one to True
+# If pretty is true, minify will not be checked
+pretty = false
+minify = false
+
+[posts]
+base_path = '/blog/'
+extension = '.md'
+
+[posts.author]
+# Show author at the top of every post?
+show = true
+# Author to use if author is not specified in the post file
+default_name = 'Cody'
+
+[posts.comments]
+# https://cusdis.com/doc#/advanced/sdk
+enabled = true
+cusdis_host = 'https://cusdis.com'
+cusdis_app_id = '6fe398cd-a881-4122-bea7-ba7f4a832aae'
+
+[posts.discovery]
+random_post_enabled = true
+
+[posts.markdown]
+extensions = [
+    'codehilite',
+    'fenced_code',
+    'mdx_linkify',
+]

@@ -1,0 +1,11 @@
+{% extends "_layout.html" %}
+
+{% block title %}Blog{% endblock title %}
+
+{% block content %}
+  {% for post in posts %}
+    {% with show_text=False, loop_state=loop %}
+      {% include "_list.html" %}
+    {% endwith %}
+  {% endfor %}
+{% endblock content %}
