@@ -43,3 +43,11 @@ extensions = [
     'fenced_code',
     'mdx_linkify',
 ]
+
+[redirects]
+'/blog/2016/5/how-to-setup-lets-encrypt-with-nginx/' = '/2016/05/15/how-to-setup-lets-encrypt-with-nginx/'
+'/blog/2017/1/whats-the-deal-with-ctrlleft-and-ctrlright/' = '/2017/01/14/whats-the-deal-with-ctrlleft-and-ctrlright/'
+'/blog/2017/4/my-problems-with-bitbucket-cloud/' = '/2017/04/19/my-problems-with-bitbucket-cloud/'
+'/blog/2018/3/run-linux-gui-applications-on-windows-10/' = '/2018/03/12/run-linux-gui-applications-on-windows-10/'
+'/blog/2017/8/install-pyqt5-inside-a-virtual-environment/' = '/2017/08/17/install-pyqt5-inside-a-virtual-environment/'
+'/blog/2018/1/setup-a-local-sftp-server-for-development/' = '/2018/01/10/setup-a-local-sftp-server-for-development/'
