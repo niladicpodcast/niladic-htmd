@@ -4,8 +4,11 @@ logo = ''
 name = 'Niladic Podcast'
 url = 'https://www.niladicpodcast.com/'
 
+[build]
+keep_files = ['CNAME']
+
 [folders]
-build = 'build'
+build = 'niladicpodcast.github.io'
 pages = 'pages'
 posts = 'posts'
 static = 'static'
