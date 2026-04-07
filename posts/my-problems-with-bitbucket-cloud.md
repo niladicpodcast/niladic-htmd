@@ -1,9 +1,9 @@
 ---
 author: Cody
 title: My Problems with Bitbucket Cloud Pull Requests
-_hash: 443558f2483da59284206d11f3e070f2faa0272a94f3658d1fe039e75d2f4249
+_hash: b518ab2d21e6c2113d1f80118e643cee85201b5aa3ce76468deb1af065d1cc93
 published: 2017-04-19T11:52:42.486942+00:00
-updated: 2026-03-19T11:38:21.464691+00:00
+updated: 2026-04-07T09:03:47.412804+00:00
 ...
 
 I use Mercurial with bookmarks instead of named branches and a repo (fork) per user. I only have the default named branch. Development happens in a fork and a pull request is created.

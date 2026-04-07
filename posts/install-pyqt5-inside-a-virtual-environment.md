@@ -2,8 +2,8 @@
 title: Install PyQt5 Inside a Virtual Environment
 author: Cody
 published: 2017-08-17T00:00:00+00:00
-_hash: 36a472517171a3c311a61be5632759159f7dba5b3e165aaeac6b08a4c0f45e5f
-updated: 2026-03-20T20:19:42.953403+00:00
+_hash: 5bd856e0338a33a38f1d06c232dbf7716e6bec09182f9b1a12e8088b973217d2
+updated: 2026-04-07T09:03:47.412804+00:00
 ...
 
 A <a href="https://docs.python.org/3/library/venv.html" target="_blank">virtual environment</a>

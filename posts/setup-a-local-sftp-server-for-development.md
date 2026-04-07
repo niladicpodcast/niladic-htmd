@@ -1,9 +1,9 @@
 ---
 title: Setup a local SFTP server for development
-author: Cody Scott
+author: Cody
 published: 2018-01-10T00:00:00+00:00
-_hash: 2030e1a00bf38a58dc24eefd31ec6200b45c03ca17766a37d0fe80483e78c9a4
-updated: 2026-03-19T11:38:21.464691+00:00
+_hash: 6b0f1017a5bd4eb3d9356de2f794d21c7173f66eed065002ec1340f1431e67f7
+updated: 2026-04-07T09:03:47.412804+00:00
 ...
 
 OpenSSH comes with an SFTP server. First install OpenSSH Server.

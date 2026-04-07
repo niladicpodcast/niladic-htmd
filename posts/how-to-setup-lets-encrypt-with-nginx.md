@@ -2,8 +2,8 @@
 title: How to Setup Let's Encrypt with nginx
 author: Cody
 published: 2016-05-15T00:00:00+00:00
-_hash: bd6848750dc553536cd5f7ddf894ccf52d1828cf69df1bd5a3a67b09c3b22baf
-updated: 2026-03-19T11:38:21.464691+00:00
+_hash: 17f74d8e390edccec21b09ec0e4a7b4d5b4c18e7af5c5972c76494a12574b979
+updated: 2026-04-07T09:03:47.412804+00:00
 ...
 
 <a href="https://letsencrypt.org/" target="_blank">Let's Encrypt</a> is a service to get free HTTPS certificates and automate renewing them.

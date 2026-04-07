@@ -2,8 +2,8 @@
 author: Cody
 published: 2018-03-12T00:00:00+00:00
 title: Run Linux GUI Applications on Windows 10
-_hash: e03b72110649ad12bede229a4381feeaadb175cca2e311cb43d5ebd929c28bc6
-updated: 2026-03-19T11:38:21.464691+00:00
+_hash: d2c3c1683d3556bd5eb7fce5fdad111619aee796fe6ce21eaa1fa16d69a1c3ec
+updated: 2026-04-07T09:03:47.412804+00:00
 ...
 
 Linux is my main development environment but I also need to test things on Windows. My computer boots into Windows 10 and then I run a Linux VM.

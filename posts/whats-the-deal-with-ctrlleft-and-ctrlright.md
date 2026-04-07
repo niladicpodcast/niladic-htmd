@@ -1,9 +1,9 @@
 ---
 author: Cody
 title: What's the deal with Ctrl+Left and Ctrl+Right?
-_hash: 979c4b76a529c94875caea4a8af2a027d1d634455cedf642b9de9e920061451d
+_hash: af142171a3809bf96ee1560e8d9f32e3b3e5a8da64e9fa1990cb8c510a731531
 published: 2017-01-14T00:00:00+00:00
-updated: 2026-03-19T11:38:21.516020+00:00
+updated: 2026-04-07T09:03:47.412804+00:00
 ...
 
 What is with the behaviour of `Ctrl+Left` and `Ctrl+Right`? Almost every editor behaves differently.
